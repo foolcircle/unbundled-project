@@ -1,5 +1,5 @@
 Address,Status,Bedrooms,Monthly Rent
-123 Main St,Occupied,2,$2,400
-456 Oak Ave,Vacant,1,$1,200
-789 Pine Ln,Renovation,3,$3,000
-321 Elm Rd,Listed for Rent,2,$1,850
+123 Main St,Occupied,2,$2\,400
+456 Oak Ave,Vacant,1,$1\,200
+789 Pine Ln,Renovation,3,$3\,000
+321 Elm Rd,Listed for Rent,2,$1\,850
