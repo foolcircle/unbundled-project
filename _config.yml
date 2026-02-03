@@ -1,0 +1,7 @@
+title: "Unbundled Wiki"
+description: "A knowledgebase project to house Unbundled's processes, policies, and procedures."
+baseurl: "/unbundled-project"
+url: "https://foolcircle.github.io"
+remote_theme: just-the-docs/just-the-docs
+color_scheme: "light"
+search_enabled: true
